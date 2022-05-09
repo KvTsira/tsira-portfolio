@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tsira-portfolio/static/css/main.6b8f7c31.css",
+    "main.js": "/tsira-portfolio/static/js/main.86eedc4e.js",
+    "static/js/787.55c28c65.chunk.js": "/tsira-portfolio/static/js/787.55c28c65.chunk.js",
+    "index.html": "/tsira-portfolio/index.html",
+    "main.6b8f7c31.css.map": "/tsira-portfolio/static/css/main.6b8f7c31.css.map",
+    "main.86eedc4e.js.map": "/tsira-portfolio/static/js/main.86eedc4e.js.map",
+    "787.55c28c65.chunk.js.map": "/tsira-portfolio/static/js/787.55c28c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8f7c31.css",
+    "static/js/main.86eedc4e.js"
+  ]
+}
